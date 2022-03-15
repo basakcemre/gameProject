@@ -1,0 +1,5 @@
+eclipse.preferences.version=1
+encoding//src/gameProject/gameApp/api/Main.java=UTF-8
+encoding//src/gameProject/gameApp/core/concretes/MernisValidator.java=UTF-8
+encoding//src/gameProject/gameApp/dataAccess/concretes/JdbcGamerDao.java=UTF-8
+encoding//src/gameProject/gameApp/dataAccess/concretes/JdbcSaleDao.java=UTF-8
